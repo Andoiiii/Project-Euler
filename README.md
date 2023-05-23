@@ -10,7 +10,6 @@ I currently know these languages:
 - Java
 - Javascript
 - Python
-- Haskell (?)
 
 I shall pick one at random for each PE question, and do it in that language (and paradigm...)
 We'll... see how it goes. Maybe I'll add more to the roulette wheel in the future?
