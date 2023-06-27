@@ -1,7 +1,4 @@
 // Ok so we need to read in a number first too...
-
-import java.util.stream.Stream;
-
 public class Q008 {
   public static void main(String[] args) {
     String number = """
