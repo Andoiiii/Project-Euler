@@ -11,5 +11,5 @@ I currently know these languages:
 - Javascript
 - Python
 
-I shall pick one at random for each PE question, and do it in that language (and paradigm...)
-We'll... see how it goes. Maybe I'll add more to the roulette wheel in the future?
+I just pick one that I feel would be fun to use and use it. No real logic.
+But yeah, we'll see how it goes.
