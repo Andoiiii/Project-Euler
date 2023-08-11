@@ -12,4 +12,12 @@ I currently know these languages:
 - Python
 
 I just pick one that I feel would be fun to use and use it. No real logic.
+> Please forgive my lack of attention to C. I just look at it and think, "I'm going to have to define array methods and then deal with C strings to parse the input etc" and at that point am I really doing the problem or am I just solving a meta problem??? I just want to solve math problems not debug segfaults thank you very much
 But yeah, we'll see how it goes.
+
+### Stats
+- Problems Done: 14
+- Problems Done in Racket: 4
+- Problems done in Java: 3
+- Problems done in Javascript: 2
+- Problems done in Python: 5
