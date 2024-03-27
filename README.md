@@ -17,7 +17,7 @@ But yeah, we'll see how it goes.
 
 ### Stats
 - Problems Done: 16
-- Problems Done in Racket: 4
+- Problems Done in Racket: 5
 - Problems done in Java: 3
 - Problems done in Javascript: 3
 - Problems done in Python: 5
